@@ -1,6 +1,6 @@
 # Fintek Prueba Técnica: Nivel Junior
 
-#### Pasos de como realicé el CRUD
+## Pasos de como realicé el CRUD
 
 En la prueba se me solicitó crear un CRUD donde se pueda crear, leer, actualizar y eliminar registros de productos con los lenguajes PHP y Mysql.
 
@@ -28,7 +28,7 @@ En la prueba se me solicitó crear un CRUD donde se pueda crear, leer, actualiza
 
 ![bandicam 2023-05-21 14-39-59-816](https://github.com/armandojrw/fintekpruebajunior/assets/85651439/7f59fbb9-0027-4f55-a360-89492ae4fd60)
 
-####Funcionamiento del CRUD de productos
+##Funcionamiento del CRUD de productos
 
 Como primera entrada tenemos lo que es la lista de todos los productos, y también en la parte de arriba tenemos un botón donde dice Agregar Producto, cuando le damos click a ese botón nos lleva a un formulario donde alli podemos agregar un producto.
 
@@ -50,7 +50,7 @@ Podemos editar o eliminar nuestro producto, a la derecha de cada fila de cada pr
 
 Listo, estos son todos los pasos para el funcionamiento del CRUD de productos.
 
-#### Instalación de CRUD de productos
+## Instalación de CRUD de productos
 
 1. Descargar todos los archivos del proyecto y ubicarlos dentro de un servidor para así poder visualizar nuestro proyecto, recuerde que debe estar encendido nuestro apache y Mysql
 
