@@ -1,6 +1,6 @@
 # Fintek Prueba Técnica: Nivel Junior
 
-## Pasos de como realicé el CRUD
+## Pasos utilizados para la elaboración del CRUD
 
 En la prueba se me solicitó crear un CRUD donde se pueda crear, leer, actualizar y eliminar registros de productos con los lenguajes PHP y Mysql.
 
